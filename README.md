@@ -6,7 +6,7 @@ Every directory will store a single project for my activities, as well as some a
 I already did an introductory activity in Rust, check it out [here](https://github.com/Its-Yayo/Macro-Calc)
 
 ## Run local
-You need [cargo](https://crates.io/) and [rustc](https://www.rust-lang.org/tools/install) in order to compile and run this program. I already did some ```$ cargo init``` to initialize Rust projects. You need to build and run 'em
+You need [cargo](https://crates.io/) and [rustc](https://www.rust-lang.org/tools/install) in order to compile and run these programs. I already did some ```$ cargo init``` to initialize Rust projects. You need to build and run 'em
 ```bash
 $ cargo build
 $ cargo run
