@@ -1,6 +1,6 @@
 # Rust-Course
-Repo to store all activities from my Rust's journey. I'll be learning all this stuff from this [book](https://doc.rust-lang.org/book/title-page.html)
-Every directory will be a single project for my activities, as well as some annotations. 
+Repo to store all activities from my Rust's journey. I'll be learning all this stuff from this [book](https://doc.rust-lang.org/book/title-page.html).
+Every directory will store a single project for my activities, as well as some annotations. 
 
 ## Quick Note
 I already did an introductory activity in Rust, check it out [here](https://github.com/Its-Yayo/Macro-Calc)
