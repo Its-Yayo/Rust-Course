@@ -25,6 +25,7 @@ $ git pull origin
 ```
 
 ## License
-Proyect without license
+This learner project is under the [Mit](https://opensource.org/license/mit/) license.
+
 
 Happy coding fellas :)
