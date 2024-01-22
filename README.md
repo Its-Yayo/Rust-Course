@@ -25,7 +25,4 @@ $ git pull origin
 ```
 
 ## License
-This learner project is under the [MIT](https://opensource.org/license/mit/) license.
-
-
-Happy coding fellas :)
+This learner project is under the [MIT](https://opensource.org/license/mit/) license. Happy coding fellas :)
