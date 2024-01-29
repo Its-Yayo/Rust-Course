@@ -3,5 +3,5 @@ fn guessing_game() {
 }
 
 fn main() {
-    println!("Hello World")
+    // TODO: Call guesing_game() method here lol
 }
