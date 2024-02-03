@@ -5,14 +5,14 @@ Every directory will store a single project for my activities, as well as some a
 ## Quick Note
 I already did an introductory activity in Rust, check it out [here](https://github.com/Its-Yayo/Macro-Calc)
 
-## Run local
+## Local run
 You need [cargo](https://crates.io/) and [rustc](https://www.rust-lang.org/tools/install) in order to compile and run these programs. I already did some ```$ cargo init``` to initialize Rust projects. You need to build and run 'em
 ```bash
 $ cargo build
 $ cargo run
 ```
 
-## Save local
+## Local save
 You need [git](https://git-scm.com/) downloaded. Check out the following commands in order to clone my project
 ```bash
 $ git clone https://github.com/Its-Yayo/Rust-Course.git
