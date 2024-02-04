@@ -9,5 +9,5 @@ fn main() {
 
     io::stdin().read_line(&mut guess).expect("Error reading guess");
 
-    println!("Number typed!: {}", guess);
+    println!("Number typed: {}", guess);
 }
