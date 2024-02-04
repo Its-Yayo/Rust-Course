@@ -1,4 +1,3 @@
-// Initial code of the Rust's book
 // TODO: Check if number input works
 use std::io;
 
