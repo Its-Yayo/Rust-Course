@@ -1,3 +1,5 @@
+// Code in chapter 2 from my book
+
 use std::io;
 
 fn guessing_game() {
@@ -6,5 +8,4 @@ fn guessing_game() {
 
 fn main() {
     // TODO: Call guesing_game() method here lol
-    // Code in chapter 2 from my book
 }
